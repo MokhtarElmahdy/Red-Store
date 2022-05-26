@@ -1,0 +1,10 @@
+@import '../src/Styles/Variables';
+@import '../src/Styles/_Bootstrap';
+@import '../src/Styles/Global';
+@import '../src/Styles/Components';
+@import '../src/Styles/Pages';
+.App{
+    width: 100%;
+    min-height: 90vh;
+    
+}
